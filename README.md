@@ -2,3 +2,4 @@
 NLPObjectives
 SetupGuide
 TextProcessingFeatures
+RequiredLibraries
