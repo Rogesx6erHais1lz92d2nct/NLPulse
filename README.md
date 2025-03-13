@@ -4,3 +4,4 @@ SetupGuide
 TextProcessingFeatures
 RequiredLibraries
 CodeExamples
+ConfigurationSettings
