@@ -5,3 +5,4 @@ TextProcessingFeatures
 RequiredLibraries
 CodeExamples
 ConfigurationSettings
+ContributionGuide
