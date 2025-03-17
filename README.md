@@ -6,3 +6,4 @@ RequiredLibraries
 CodeExamples
 ConfigurationSettings
 ContributionGuide
+ErrorHandling
