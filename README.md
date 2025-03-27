@@ -11,3 +11,4 @@ LicenseDetails
 NLPFrequentlyAskedQuestions
 Changelog
 TestingInstructions
+TextPerformance
