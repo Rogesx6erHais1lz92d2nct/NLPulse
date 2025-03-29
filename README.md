@@ -12,3 +12,4 @@ NLPFrequentlyAskedQuestions
 Changelog
 TestingInstructions
 TextPerformance
+CommunityResources
